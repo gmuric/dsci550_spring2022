@@ -1,0 +1,66 @@
+[04-Oct-2016 03:51:06 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 03:51:06 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 03:51:06 America/Chicago] PHP Warning:  require(../PHPMailerAutoload.php): failed to open stream: No such file or directory in /home3/moockey/public_html/mail.php on line 6
+[04-Oct-2016 03:51:06 America/Chicago] PHP Fatal error:  require(): Failed opening required '../PHPMailerAutoload.php' (include_path='.:/opt/php54/lib/php') in /home3/moockey/public_html/mail.php on line 6
+[04-Oct-2016 03:53:21 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 03:53:21 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 03:53:21 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home3/moockey/public_html/mail.php on line 9
+[04-Oct-2016 03:54:51 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 03:54:51 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 03:54:51 America/Chicago] PHP Warning:  file_get_contents(contents.html): failed to open stream: No such file or directory in /home3/moockey/public_html/mail.php on line 20
+[04-Oct-2016 03:55:46 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 03:55:46 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 04:03:57 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 04:03:57 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 09:03:57 Etc/UTC] PHP Fatal error:  Class 'SMTP' not found in /home3/moockey/public_html/class.phpmailer.php on line 1466
+[04-Oct-2016 04:04:30 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 04:04:30 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Oct-2016 09:04:30 Etc/UTC] PHP Fatal error:  Class 'SMTP' not found in /home3/moockey/public_html/class.phpmailer.php on line 1466
